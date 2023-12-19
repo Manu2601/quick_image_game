@@ -14,7 +14,7 @@
         <TableLayout
             android:id="@+id/playfield"
             android:layout_width="match_parent"
-            android:layout_height="350dp">
+            android:layout_height="259dp">
 
         </TableLayout>
 
@@ -45,8 +45,8 @@
 
             <ImageView
                 android:id="@+id/wantedImg"
-                android:layout_width="240dp"
-                android:layout_height="141dp"
+                android:layout_width="157dp"
+                android:layout_height="82dp"
                 android:layout_weight="1"
                 android:src="@drawable/back" />
 
